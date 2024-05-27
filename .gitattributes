@@ -1,0 +1,6 @@
+# Ignore documentation files in language statistics
+*.html linguist-documentation=true
+*.md linguist-documentation=true
+
+# Treat .Rmd files as R code
+*.Rmd linguist-language=R
